@@ -18,6 +18,11 @@
     "name": "Zero",
     "url": "http://github.com/groupguanfang"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org",
+    "tag": "latest"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
